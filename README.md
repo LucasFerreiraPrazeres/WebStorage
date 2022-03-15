@@ -4,3 +4,7 @@
 Projeto voltado ao desenvolvimento de um sistema de armazenamento de arquivos web.
 
 
+## **Equipe**
+- Marcelo Silva dos Santos Júnior (20172380045)
+- Lucas Ferreira Prazeres (20192380041)
+
