@@ -10,7 +10,7 @@ Projeto voltado ao desenvolvimento de um sistema de armazenamento de arquivos we
 
 
 ## **Status do Projeto**
-:construction: **Em Andamento**
+:construction: **Em Desenvolvimento**
 
 
 ## **Funcionalidades**
